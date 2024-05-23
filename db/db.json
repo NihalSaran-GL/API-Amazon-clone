@@ -1,115 +1,167 @@
 {
   "cards": [
     {
-      "title": "Keep shopping for",
+      "title": "Latest Mobiles",
       "images": [
-        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg", "description": "Air conditioners"},
-        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg", "description": "Refrigerators"},
-        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg", "description": "Microwaves"},
-        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg", "description": "Washing Machine"}
+        {
+          "id": "1",
+          "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+          "description": "Samsung Galaxy S23 FE"
+        },
+        {
+          "id": "2",
+          "src": "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+          "description": "Iphone 15"
+        },
+        {
+          "id": "3",
+          "src": "https://m.media-amazon.com/images/I/717Qo4MH97L._SL1500_.jpg",
+          "description": "OnePlus 12"
+        },
+        {
+          "id": "4",
+          "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
+          "description": "Pixel 8 Pro"
+        }
       ]
     },
     {
-      "title": "Card Title 2",
+      "title": "Latest Mobiles",
       "images": [
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
+        {
+          "id": "1",
+          "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+          "description": "Samsung Galaxy S23 FE"
+        },
+        {
+          "id": "2",
+          "src": "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+          "description": "Iphone 15"
+        },
+        {
+          "id": "3",
+          "src": "https://m.media-amazon.com/images/I/717Qo4MH97L._SL1500_.jpg",
+          "description": "OnePlus 12"
+        },
+        {
+          "id": "4",
+          "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
+          "description": "Pixel 8 Pro"
+        }
       ]
     },
     {
-      "title": "Card Title 3",
+      "title": "Latest Mobiles",
       "images": [
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."}
+        {
+          "id": "1",
+          "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+          "description": "Samsung Galaxy S23 FE"
+        },
+        {
+          "id": "2",
+          "src": "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+          "description": "Iphone 15"
+        },
+        {
+          "id": "3",
+          "src": "https://m.media-amazon.com/images/I/717Qo4MH97L._SL1500_.jpg",
+          "description": "OnePlus 12"
+        },
+        {
+          "id": "4",
+          "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
+          "description": "Pixel 8 Pro"
+        }
       ]
     },
     {
-      "title": "Card Title 4",
+      "title": "Latest Mobiles",
       "images": [
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."}
-      ]
-    },
-    {
-      "title": "Card Title 5",
-      "images": [
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."}
-      ]
-    },
-    {
-      "title": "Card Title 6",
-      "images": [
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
-      ]
-    },
-    {
-      "title": "Card Title 7",
-      "images": [
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."}
-      ]
-    },
-    {
-      "title": "Card Title 8",
-      "images": [
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."}
+        {
+          "id": "1",
+          "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+          "description": "Samsung Galaxy S23 FE"
+        },
+        {
+          "id": "2",
+          "src": "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+          "description": "Iphone 15"
+        },
+        {
+          "id": "3",
+          "src": "https://m.media-amazon.com/images/I/717Qo4MH97L._SL1500_.jpg",
+          "description": "OnePlus 12"
+        },
+        {
+          "id": "4",
+          "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
+          "description": "Pixel 8 Pro"
+        }
       ]
     }
   ],
 
-  "product-details": [
-
+  "products": [
     {
-      "title": "productimg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-      "price": "$19.99",
+      "id": "1",
+      "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+      "title": "Samsung Galaxy S21",
+      "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
+      "price": "₹69,999",
       "images": [
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."}
+        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
+        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
+        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
+        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
+        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
+        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
       ]
     },
     {
-      "title": "Product Title 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-      "price": "$19.99",
+      "id": "2",
+      "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+      "title": "Iphone 15",
+      "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
+      "price": "₹69,999",
       "images": [
-        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
+        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
+        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
+        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
+        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
+        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
+        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
       ]
     },
     {
-      "title": "Product Title 3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-      "price": "$19.99",
+      "id": "3",
+      "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+      "title": "Samsung Galaxy S21",
+      "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
+      "price": "₹69,999",
       "images": [
-        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
-    
+        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
+        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
+        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
+        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
+        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
+        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
+      ]
+    },
+    {
+      "id": "4",
+      "src": "https://m.media-amazon.com/images/I/610Q2I5Or8L._SL1500_.jpg",
+      "title": "Samsung Galaxy S21",
+      "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
+      "price": "₹69,999",
+      "images": [
+        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
+        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
+        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
+        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
+        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
+        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
+      ]
+    }
   ]
-
-  }
-  ]
-
 }
