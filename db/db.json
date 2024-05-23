@@ -1,115 +1,115 @@
 {
-    "cards": [
-      {
-        "title": "Card Title 1",
-        "images": [
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Card Title 2",
-        "images": [
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Card Title 3",
-        "images": [
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Card Title 4",
-        "images": [
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Card Title 5",
-        "images": [
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Card Title 6",
-        "images": [
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Card Title 7",
-        "images": [
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Card Title 8",
-        "images": [
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      }
-    ],
-  
-    "product-details": [
-  
-      {
-        "title": "productimg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-        "price": "$19.99",
-        "images": [
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Product Title 2",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-        "price": "$19.99",
-        "images": [
-          {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
-        ]
-      },
-      {
-        "title": "Product Title 3",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-        "price": "$19.99",
-        "images": [
-          {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
-          {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
-      
-    ]
-  
+  "cards": [
+    {
+      "title": "Keep shopping for",
+      "images": [
+        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg", "description": "Air conditioners"},
+        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg", "description": "Refrigerators"},
+        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg", "description": "Microwaves"},
+        {"src": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg", "description": "Washing Machine"}
+      ]
+    },
+    {
+      "title": "Card Title 2",
+      "images": [
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Card Title 3",
+      "images": [
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Card Title 4",
+      "images": [
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Card Title 5",
+      "images": [
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Card Title 6",
+      "images": [
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Card Title 7",
+      "images": [
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Card Title 8",
+      "images": [
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
     }
-    ]
-  
+  ],
+
+  "product-details": [
+
+    {
+      "title": "productimg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+      "price": "$19.99",
+      "images": [
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Product Title 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+      "price": "$19.99",
+      "images": [
+        {"src": "productimg3.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
+      ]
+    },
+    {
+      "title": "Product Title 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+      "price": "$19.99",
+      "images": [
+        {"src": "productimg4.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg5.jpg", "description": "Lorem ipsum dolor sit amet."},
+        {"src": "productimg.jpg", "description": "Lorem ipsum dolor sit amet."}
+    
+  ]
+
   }
+  ]
+
+}
