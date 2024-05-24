@@ -23,7 +23,8 @@
           "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
           "description": "Pixel 8 Pro"
         }
-      ]
+      ],
+      "id": "164e"
     },
     {
       "title": "Latest Mobiles",
@@ -48,7 +49,8 @@
           "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
           "description": "Pixel 8 Pro"
         }
-      ]
+      ],
+      "id": "ad72"
     },
     {
       "title": "Latest Mobiles",
@@ -73,7 +75,8 @@
           "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
           "description": "Pixel 8 Pro"
         }
-      ]
+      ],
+      "id": "0c3d"
     },
     {
       "title": "Latest Mobiles",
@@ -98,10 +101,10 @@
           "src": "https://m.media-amazon.com/images/I/61X4kxP-OnL._SL1500_.jpg",
           "description": "Pixel 8 Pro"
         }
-      ]
+      ],
+      "id": "247a"
     }
   ],
-
   "products": [
     {
       "id": "1",
@@ -110,12 +113,30 @@
       "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
       "price": "₹69,999",
       "images": [
-        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
-        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
-        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
-        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
-        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
-        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
+        {
+          "src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg",
+          "description": "Front view of Samsung Galaxy S21."
+        },
+        {
+          "src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg",
+          "description": "Back view of Samsung Galaxy S21."
+        },
+        {
+          "src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg",
+          "description": "Side view of Samsung Galaxy S21."
+        },
+        {
+          "src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with box."
+        },
+        {
+          "src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        },
+        {
+          "src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        }
       ]
     },
     {
@@ -125,12 +146,30 @@
       "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
       "price": "₹69,999",
       "images": [
-        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
-        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
-        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
-        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
-        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
-        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
+        {
+          "src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg",
+          "description": "Front view of Samsung Galaxy S21."
+        },
+        {
+          "src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg",
+          "description": "Back view of Samsung Galaxy S21."
+        },
+        {
+          "src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg",
+          "description": "Side view of Samsung Galaxy S21."
+        },
+        {
+          "src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with box."
+        },
+        {
+          "src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        },
+        {
+          "src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        }
       ]
     },
     {
@@ -140,12 +179,30 @@
       "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
       "price": "₹69,999",
       "images": [
-        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
-        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
-        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
-        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
-        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
-        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
+        {
+          "src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg",
+          "description": "Front view of Samsung Galaxy S21."
+        },
+        {
+          "src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg",
+          "description": "Back view of Samsung Galaxy S21."
+        },
+        {
+          "src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg",
+          "description": "Side view of Samsung Galaxy S21."
+        },
+        {
+          "src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with box."
+        },
+        {
+          "src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        },
+        {
+          "src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        }
       ]
     },
     {
@@ -155,13 +212,39 @@
       "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, Exynos 2100 processor, and a triple-camera setup. It offers 8GB of RAM and 128GB of internal storage.",
       "price": "₹69,999",
       "images": [
-        {"src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg", "description": "Front view of Samsung Galaxy S21."},
-        {"src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg", "description": "Back view of Samsung Galaxy S21."},
-        {"src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg", "description": "Side view of Samsung Galaxy S21."},
-        {"src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg", "description": "Samsung Galaxy S21 with box."},
-        {"src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."},
-        {"src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg", "description": "Samsung Galaxy S21 with accessories."}
+        {
+          "src1": "https://m.media-amazon.com/images/I/51S4Nfgdh0L._SL1500_.jpg",
+          "description": "Front view of Samsung Galaxy S21."
+        },
+        {
+          "src2": "https://m.media-amazon.com/images/I/71Lv32ogyOL._SL1500_.jpg",
+          "description": "Back view of Samsung Galaxy S21."
+        },
+        {
+          "src3": "https://m.media-amazon.com/images/I/71O5n8xjCYL._SL1500_.jpg",
+          "description": "Side view of Samsung Galaxy S21."
+        },
+        {
+          "src4": "https://m.media-amazon.com/images/I/61OSycter-L._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with box."
+        },
+        {
+          "src5": "https://m.media-amazon.com/images/I/81rsI4YP0fL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        },
+        {
+          "src6": "https://m.media-amazon.com/images/I/71SuMQhkPcL._SL1500_.jpg",
+          "description": "Samsung Galaxy S21 with accessories."
+        }
       ]
+    }
+  ],
+  "users": [
+    {
+      "id": "b0e2",
+      "name": "Nihal saran das duggirala",
+      "mobileNumber": "6309596999",
+      "password": "nihal1234"
     }
   ]
 }
